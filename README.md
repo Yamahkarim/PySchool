@@ -1,5 +1,5 @@
 #PySchool
-![School](Resources/School.jpg) 
+![school](Resources/school.jpg) 
 
 ##Objective
 Given the data on School performance and funding, use Python's pandas library to prepare an analysis that highlights the performance of the district and its respective schools based on the following Criteria: 
