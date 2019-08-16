@@ -1,0 +1,5 @@
+School District Analysis
+
+Finding #1: Math seems to be the difficult subject for students. Test scores are lower in math than reading for both the top and bottom 5 schools. 
+
+Finding #2: More money spent per student does not equate to higher test scores. It is almost an inverse relationship, actually.  
